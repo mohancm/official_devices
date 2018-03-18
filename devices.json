@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Oneplus 5",
+        "brand": "Oneplus",
+        "codename": "Cheesberry",
+        "afh_folder": "https://www.androidfilehost.com/?w=files&flid=247571",
+        "maintainer_name": "Kuber Sharma",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7471004",
+        "xda_thread": "https://www.amazon.in/OnePlus-Midnight-Black-64GB-memory/dp/B0756ZFXVB?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=73b85c6c-3010-4a97-93e6-6c5021739c90"
+    },
+    {
+       "name": "Oneplus 6",
+       "brand": "Oneplus",
+       "codename": "Chocolava",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=218198",
+       "maintainer_name": "Mohan Cm",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7471004",
+       "xda_thread": "https://www.gadgetsnow.com/mobile-phones/OnePlus-6"
+    },
+    {
+       "name": "Oneplus 7",
+       "brand": "Oneplus",
+       "codename": "DarkFantasy",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=257464",
+       "maintainer_name": "Iacob Ianot",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=7471004",
+       "xda_thread": "https://www.techradar.com/news/oneplus-6-what-we-want-to-see"
+    }
+]
